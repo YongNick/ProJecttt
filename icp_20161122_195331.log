@@ -1,0 +1,93 @@
+Start at Tuesday, November 22, 2016    19:53:31
+=========================================
+
+Registration Info : 
+Unique Info : 9BB67B0000000005-3A59360E
+
+Windows Version:
+Win7 _x64
+Module Info:
+Company: fCoder Group, Inc.
+Product Name: ImageConverter Plus
+Product Version: 9.0.756.141029
+
+CPU Info:
+Mode: x32 bit
+Vendor: ache 
+Vendor ID: Intel Corporation
+Extended Processor Name: Pentium® III (0.18 µm) With 1 Or 2 MB On-Die L2 Cache 
+Procesor Clock Frequecy: 2394
+Logical processors per physical: 16
+Stepping code: 9
+MMX support: yes
+MMX+ support: no
+SSE support: yes
+SSE2 support: yes
+3DNow suppor: no
+3DNow+ suppor: no
+AI64 support: no
+Hyperthreading support: no
+L1 cache size: -1
+L2 cache size: -1
+L3 cache size: -1
+
+Monitor info:
+Color depth: 32 Bits per pixel.
+Pixel Width: 1920
+Pixel Height: 1080
+Refresh frequency: 59 Hz
+
+Internet Explorer Version: 6.1
+Build Number: 7601
+
+Printers list: 
+Microsoft XPS Document Writer
+Fax
+
+Default printer: 
+Microsoft XPS Document Writer
+
+
+Profile settings:
+
+Operations:
+
+Format properties:
+    Extension: dds
+    DDS surface format : R8G8B8
+    generate mipmaps : no
+
+Save properties:
+    Destination path: {My Documents}
+    convert with subfolders : yes
+    restore subfolder structure in target folder : yes
+    open target folder after conversion : yes
+    create log file in target folder : yes
+
+Target file name properties:
+    Name template: {Title}.{Type}
+    what to do, if file exists : auto_rename
+    delete source images : no
+
+Processing files...
+
+=====================================================================
+
+File 1 of 1
+
+RAM free    :    4096.0 of    4096.0 Mb
+Virtual free:    1792.7 of    2047.9 Mb
+Target free disk space :   24364.5 of  114371.0 Mb
+Temp free disk space   :   24364.5 of  114371.0 Mb
+
+Src info : F:\Direcx000\GP2B\DVD\Code\Chapter 11 The Geometry Shader\°ûÈ«¼® (1)\Textures\particle.png
+png, 256x256px, 8bpp, 1 page(s), 75.000000x75.000000 dpi, 26418 bytes
+Load all pages :  ok
+
+Save :  ok
+
+Dest info : C:\Users\°ûÈ«¼®\Documents\.dds
+dds, 256x256px, 32bpp, 1 page(s), 196736 bytes
+
+Complete at Tuesday, November 22, 2016    19:53:31
+=========================================
